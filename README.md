@@ -1,6 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Please see my personal website here:
+
+## Please use the following link to access my personal website
+
 https://delphine777.github.io/my-app/
 
 
